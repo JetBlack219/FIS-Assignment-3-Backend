@@ -1,0 +1,13 @@
+D:\camunda\src\main\java\com\intern\CamundaApplication.java
+D:\camunda\src\main\java\com\intern\controller\LoanApplicationController.java
+D:\camunda\src\main\java\com\intern\delegate\AutomatedRiskAssessmentDelegate.java
+D:\camunda\src\main\java\com\intern\delegate\DisburseFundsDelegate.java
+D:\camunda\src\main\java\com\intern\delegate\NotifyRejectDelegate.java
+D:\camunda\src\main\java\com\intern\entity\ApplicationStatus.java
+D:\camunda\src\main\java\com\intern\entity\LoanApplication.java
+D:\camunda\src\main\java\com\intern\repo\LoanApplicationRepository.java
+D:\camunda\src\main\java\com\intern\service\CamundaProcessService.java
+D:\camunda\src\main\java\com\intern\service\LoanApplicationService.java
+D:\camunda\src\main\java\com\intern\service\NotificationService.java
+D:\camunda\src\main\java\com\intern\service\PaymentService.java
+D:\camunda\src\main\java\com\intern\service\RiskAssessmentService.java

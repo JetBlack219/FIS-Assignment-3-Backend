@@ -1,0 +1,13 @@
+com\intern\service\CamundaProcessService.class
+com\intern\delegate\DisburseFundsDelegate.class
+com\intern\service\NotificationService.class
+com\intern\entity\LoanApplication.class
+com\intern\CamundaApplication.class
+com\intern\service\PaymentService.class
+com\intern\service\RiskAssessmentService.class
+com\intern\entity\ApplicationStatus.class
+com\intern\controller\LoanApplicationController.class
+com\intern\repo\LoanApplicationRepository.class
+com\intern\service\LoanApplicationService.class
+com\intern\delegate\NotifyRejectDelegate.class
+com\intern\delegate\AutomatedRiskAssessmentDelegate.class
